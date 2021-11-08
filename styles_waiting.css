@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 170px;
+    font-family: monospace;
+    color: white;
+    width: 100%;
+    text-align: center;
+    background: url("resources/background2.jpg");
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    background-position: center;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+h2{
+    text-align: center;
+    width: 100%;
+    font-family: monospace;
+    color: white;
+}

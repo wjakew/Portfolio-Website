@@ -1,0 +1,31 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: white;
+    font-family: monospace;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+a:link{
+    font-size: 15px;
+    font-family: monospace;
+    color: orange;
+}
+a:visited{
+    font-family: monospace;
+    color: orange;
+}
+table, th, td {
+    align-items: center;
+    width: 50%;
+
+}
+header{
+    font-family: monospace;
+    font-size: 90px;
+    text-align: center;
+    color: orange;
+}
